@@ -1,0 +1,11 @@
+name: gazebo11
+channels:
+  - conda-forge
+dependencies:
+  - libsdformat=9.8.0
+  - libprotobuf=3.16.0
+  - libignition-msgs5=5.7.0
+  - libignition-transport8=8.1.0
+  - libignition-common3=3.15.1
+  - libignition-fuel-tools4=4.4.0
+  - freeimage
